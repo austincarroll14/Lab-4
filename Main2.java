@@ -42,6 +42,6 @@ public static void main(String args[])
         placeHex++;
     }
     System.out.println("Your number is "+decimalValue+" in decimal");
-    //GITHUB test
+    // This is a test for my GITHUB repository, Go Gators!
 }
 }
